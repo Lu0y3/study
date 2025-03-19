@@ -303,3 +303,11 @@ C++ 中的对象都是深拷贝；只有sharedptr和weakptr是浅拷贝 而 uniq
 
 https://github.com/parallel101/hw02
 
+#### 1.P-IMPL模式
+PIMPL（Pointer to ​IMPLementation）是C++中实现接口与实现分离的核心技术，通过隐藏实现细节显著提升代码的封装性、编译效率和二进制兼容性。
+
+
+
+
+#### 6.dynamic_cast
+C++中唯一具有运行时类型检查能力的类型转换操作符，主要用于多态的安全转换。
