@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](13image1.png)
 
 根据图片内容，以下是关于 `typedef` 和 `#define` 在指针操作中差异的详细解释：
 
